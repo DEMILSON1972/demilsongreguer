@@ -3,14 +3,14 @@
 <head>
 	<meta charset="utf-8">
 	<title>LOJA VIRTUAL DG</title>
-	<link href="css.css" rel="stylesheet"  type="text/css" /> 
+	<link href="/css.css" rel="stylesheet"  type="text/css" /> 
 </head>
 <body>
-
+              
        <div id = "Principal">
        		<section id="cabecalho">
        	     
-                     <?php include once ("cabecalho.php"); ?>
+              <?php include_once ("cabecalho.php"); ?>
                     
               	</section>
        		

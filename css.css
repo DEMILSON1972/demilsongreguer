@@ -1,6 +1,60 @@
+*{
+	margin-top: 0;
+	padding: 0;
+
+}
+
+body {
+ font-family: verdana, arial, helvetica, san-serif;
+ font-size: 12px;
+background: green;
+
+}
+
+#principal {
+	width: auto;
+	height: auto;
+
+}
+
 #cabecalho {
 	width: auto;
 	height: 100px;
-	background: orange ;
+	background: blue;
 
 }
+#cabecalho_superior {
+	width: 10%;
+
+}
+#menu_cima {
+	width: 1180px;
+	height: 1px;
+	margin: 1px auto;
+	text-align: right;
+}
+#menu_cima ul li {
+background: white;
+width: 10px;
+text-align: right;
+}
+#menu_cima ul li {
+display: inline;
+margin-left: 20px;
+}
+#menu_cima ul li a: {
+	color: black;
+	}
+#menu_cima ul li a:hover {
+	color: red;
+	}
+
+
+
+
+#cabecalho_meio {
+ width: 100%
+ background: #28A4D9;
+}
+
+
